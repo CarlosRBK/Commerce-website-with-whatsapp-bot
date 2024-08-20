@@ -2,7 +2,7 @@
 
 ## 1. Introducción
 
-<p align="left">Sistema que consta de dos partes:<br>- Página web<br>- Bot de WhatsApp , desarrollado en Noud.<br>Buscando dar solucion a la atencion al cliente de manera eficaz, aclarando que dicho bot no solamente es para una pizzeria, sino para cualquier rubro con alta demanda de consultas a través de mensajería  , ya sea instituciones publicas, privadas, educativas, comerciales, etc. <br>Se puede ir ajustado de acuerdo a las necesidad del cliente</p>
+<p align="left">Sistema que consta de dos partes:<br>- Página web<br>- Bot de WhatsApp , desarrollado en Node.<br>Buscando dar solucion a la atencion al cliente de manera eficaz, aclarando que dicho bot no solamente es para una pizzeria, sino para cualquier rubro con alta demanda de consultas a través de mensajería  , ya sea instituciones publicas, privadas, educativas, comerciales, etc. <br>Se puede ir ajustado de acuerdo a las necesidad del cliente</p>
 
 ###
 
